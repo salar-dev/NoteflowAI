@@ -15,4 +15,4 @@ You can test app on:
 - [App Store](https://apps.apple.com/us/app/noteflowai/id6737428140)
 - [APK File](https://kfjxqhdtmpmpfqwhoikj.supabase.co/storage/v1/object/sign/app/NoteFlowAI.apk?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJhcHAvTm90ZUZsb3dBSS5hcGsiLCJpYXQiOjE3MzA0NzY3NTQsImV4cCI6MTgyNTA4NDc1NH0.ECbJ6wBmxUlcg_oEv_v_drF1v0tMEdU6ZkbxIZVXLuQ&t=2024-11-01T15%3A59%3A14.733Z)
 
-Developed By - [Salar Dev](https://www.instagram.com/salar_dev)
+Developed By -[Salar Dev](https://www.instagram.com/salar_dev)
